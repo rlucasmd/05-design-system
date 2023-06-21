@@ -1,5 +1,4 @@
-import { CheckboxIndicator } from "@radix-ui/react-checkbox";
-import { CheckboxContainer } from "./styles";
+import { CheckboxContainer, CheckboxIndicator } from "./styles";
 import { Check } from "phosphor-react";
 import { ComponentProps } from "react";
 
