@@ -12,3 +12,4 @@ export function TextInput({ prefix, ...rest }: TextInputProps) {
     </TextInputContainer>
   );
 }
+TextInput.displayName = "TextInput";
