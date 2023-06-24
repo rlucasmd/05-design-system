@@ -9,14 +9,9 @@ const config = {
   ],
   framework: {
     name: "@storybook/react-vite",
-    options: {},
   },
   core: {
     builder: "@storybook/builder-vite",
-  },
-  docs: {
-    autodocs: true,
-    defaultName: "Docs",
   },
 
   features: {
